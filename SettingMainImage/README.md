@@ -1,1 +1,5 @@
-# cocos-creator-examples
+# SettingMainImage
+
+SettingMainImage project is a simple project.
+
+This project is that the main image is set and fitted in devices width and height.
